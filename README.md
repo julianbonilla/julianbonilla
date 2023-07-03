@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian Bonilla.
-- 👀 I’m interested in Cloud Computing and work at AWS.
-- 🌱 I’m currently learning about [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/) and Clojure.
+- 👀 I’m interested in Serverless, Machine Learning, and work at AWS ☁️☁️☁️.
+- 🌱 I’m currently learning about [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/) and Maching Learning.
 - 📫 How to reach me [@julianbonilla](https://twitter.com/julianbonilla) on Twitter.
 
 <!---
