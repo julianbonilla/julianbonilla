@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian Bonilla.
-- 👀 I’m interested in Serverless, Machine Learning, and work at AWS ☁️☁️☁️.
+- 👀 I’m interested in DevOps, Machine Learning, and work at AWS ☁️☁️☁️.
 - 🌱 I’m currently learning about [Event-Driven Architecture](https://aws.amazon.com/event-driven-architecture/) and [Generative AI](https://aws.amazon.com/generative-ai/).
 - 📫 How to reach me [@julianbonilla](https://twitter.com/julianbonilla) on Twitter.
 
